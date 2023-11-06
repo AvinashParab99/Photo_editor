@@ -21,4 +21,5 @@ This repository contains a simple image editor implemented in Python using the T
 3. Run the Python script: `python image_editor.py`
 4. The GUI interface will open. Use the buttons to select an option and edit your image.
 
-
+## LICENSE
+[MITLicense](LICENSE)
